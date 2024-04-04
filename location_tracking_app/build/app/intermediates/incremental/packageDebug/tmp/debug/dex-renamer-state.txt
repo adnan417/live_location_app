@@ -1,0 +1,4 @@
+#Wed Apr 03 01:11:25 IST 2024
+base.0=/Users/adnan/Desktop/Development/Node/flutter_apps/location_tracking_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,15 @@
+{
+  "name": "location_tracking",
+  "version": "1.0.0",
+  "description": "This is a location tracking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adnan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
